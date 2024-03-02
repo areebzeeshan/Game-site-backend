@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/585.ae8e920f.chunk.js","mappings":"6IAQA,UANuB,WACrB,OACE,yBAAK,kBAET,C","sources":["screens/Admin/UserEditScreen.jsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst UserEditScreen = () => {\r\n  return (\r\n    <div>UserEditScreen</div>\r\n  )\r\n}\r\n\r\nexport default UserEditScreen"],"names":[],"sourceRoot":""}
